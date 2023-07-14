@@ -1,0 +1,23 @@
+.popItem {
+  display: flex;
+}
+.poptext {
+  width: 84%;
+}
+.popdiv h2 {
+  color: #2d2d2b;
+
+  font-family: Didot;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52px;
+}
+.poptext h4 {
+  color: #b8926a;
+  font-family: Raleway, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+}
